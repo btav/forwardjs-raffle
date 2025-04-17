@@ -1,0 +1,19 @@
+{
+  "name": "forwardjs-raffle",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "boxen": "^8.0.1",
+    "chalk": "^5.4.1",
+    "figlet": "^1.8.1",
+    "gradient-string": "^3.0.0",
+    "ora": "^8.2.0"
+  }
+}
